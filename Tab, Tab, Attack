@@ -1,0 +1,9 @@
+wget https://mercury.picoctf.net/static/659efd595171e4c40378be6a2e9b7298/Addadshashanammu.zip
+ unzip Addadshashanammu.zip
+cd Addadshashanammu/Almurbalarammi/Ashalmimilkala/Assurnabitashpi/Maelkashishi/Onnissiralis/Ularradallaku/
+file fang-of-haynekhtnamet
+strings -a fang-of-haynekhtnamet  | grep pico
+
+
+
+picoCTF{l3v3l_up!_t4k3_4_r35t!_524e3dc4}
