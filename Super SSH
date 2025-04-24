@@ -1,1 +1,4 @@
+ssh ctf-player@titan.picoctf.net -p 60280
+password: 6dd28e9b
 
+picoCTF{s3cur3_c0nn3ct10n_5d09a462}
