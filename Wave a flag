@@ -1,0 +1,12 @@
+use wget to download the flag
+ls
+./warm
+chmod +x warm
+ls
+./warm
+./warm -h
+
+
+
+
+picoCTF{b1scu1ts_4nd_gr4vy_18788aaa}
