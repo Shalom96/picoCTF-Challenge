@@ -1,1 +1,12 @@
+Strings command is any command that extract a string in a file.
+
+Download the strings
+on the download directory type in strings strings
+strings strings | grep picoCTF{
+
+
+
+
+picoCTF{5tRIng5_1T_d66c7bb7}
+
 
